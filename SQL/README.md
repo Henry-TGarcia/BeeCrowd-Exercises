@@ -1,1 +1,1 @@
-
+Exercises in SQL Solved.
