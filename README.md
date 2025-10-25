@@ -1,0 +1,2 @@
+# BeeCrowd-Exercises
+Exercises solved.
